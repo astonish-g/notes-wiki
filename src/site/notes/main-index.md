@@ -17,7 +17,7 @@
 - ⌨️ [[Coding/index/Coding\|Coding]]
 - 🖌️[[Color Palettes/index/Color Palettes\|Color Palettes]]
 - 🌎 [[Useful Websites\|Useful Websites]]
-- 🧪 [[experiment\|experiment]]
+- 🧪 [[experiment\|Experiment]]
 - 🖥️ [[SFFPC\|SFFPC]]
 
  
