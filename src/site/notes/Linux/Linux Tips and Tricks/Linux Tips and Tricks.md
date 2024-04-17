@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/linux/linux-tips-and-tricks/linux-tips-and-tricks/","noteIcon":""}
+---
+
+- [[Linux/Linux Tips and Tricks/Tricks for the Apps\|Tricks for the Apps]]
+- [[Linux/Linux Tips and Tricks/Fun terminal apps\|Fun terminal apps]]
+- [[Linux/Linux Tips and Tricks/Apps to use\|Apps to use]] ==- this is old==
+- [[Linux/Linux Tips and Tricks/Set-up RClone for Onedrive\|Set-up RClone for Onedrive]]
+- [[Linux/Linux Tips and Tricks/How to create .desktop entry for AppImages\|How to create .desktop entry for AppImages]]
+- [[Linux/Linux Tips and Tricks/How to install Blender manually in Linux\|How to install Blender manually in Linux]]
+- [[Linux/Linux Tips and Tricks/Logitech Buttons ID Linux\|Logitech Buttons ID Linux]]
+- [[Linux/Linux Tips and Tricks/Grub Fix\|Grub Fix]]
+- [[Linux/Linux Tips and Tricks/EndeavourOS Fix Grub\|EndeavourOS Fix Grub]]
+- [[How to set the OS Prober for dualboot\|How to set the OS Prober for dualboot]]
+- [[Linux/Linux Tips and Tricks/GTK Themeing\|GTK Themeing]]
+- [[Linux/Linux Tips and Tricks/Fix polybar currency error\|Fix polybar currency error]]
+- [[Linux/Linux Tips and Tricks/ZSH Shell Notes\|ZSH Shell Notes]]
+- [[Linux/Linux Tips and Tricks/How to add transparency in NVChad\|How to add transparency in NVChad]]
+- [[Linux/Linux Tips and Tricks/How to check the battery of bluetooth device\|How to check the battery of bluetooth device]]
+- [[Linux/Linux Tips and Tricks/How to fix bluetooth sleep issues\|How to fix bluetooth sleep issues]]
+- [[Linux/Linux Tips and Tricks/How to make Firefox go fullscreen inside the window\|How to make Firefox go fullscreen inside the window]]
+- [[Linux/Linux Tips and Tricks/How to make Firefox tab bar and adress bar smaller\|How to make Firefox tab bar and adress bar smaller]]
+- [[Linux/Linux Tips and Tricks/How to disable webp in Firefox\|How to disable webp in Firefox]]
+- [[Linux/Arch/Creating or deleting a new user in Arch Linux\|Creating or deleting a new user in Arch Linux]]
+- [[Linux/Linux Tips and Tricks/Configuring VIA udev rule in Linux for keyboards\|Configuring VIA udev rule in Linux for keyboards]]
+- [[Linux/Linux Tips and Tricks/Mount and browse other SSD partitions\|Mount and browse other SSD partitions]]
+- [[Linux/Linux Tips and Tricks/Adding a custom PATH\|Adding a custom PATH]]
+- [[Easy way to catppuccinify your wallpapers\|Easy way to catppuccinify your wallpapers]]
+- [[How to use content-aware fill for free on Linux - PIXLR\|How to use content-aware fill for free on Linux - PIXLR]]
+- [[How to mask power-profile-daemon for installing TLP\|How to mask power-profile-daemon for installing TLP]]
+- [[How to set a sleep timer on Linux\|How to set a sleep timer on Linux]]
