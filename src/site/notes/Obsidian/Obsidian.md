@@ -18,3 +18,4 @@ Here you can find my personal notes about Obsidian.
 
 ###### If Digital Garden doesn't work, Check this:
 - [[Solution\|Solution]]
+- [[Style CSS settings not applying on new installation\|Style CSS settings not applying on new installation]]
