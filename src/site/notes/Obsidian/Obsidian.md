@@ -15,3 +15,6 @@ Here you can find my personal notes about Obsidian.
 - [[Obsidian/Obsidian/How to set file properties visible ONLY on the right panel\|How to set file properties visible ONLY on the right panel]]
 - [[Obsidian/Obsidian/Creating alias for internal links in Obsidian\|Creating alias for internal links in Obsidian]]
 - [[Obsidian/Obsidian/How to fix when Obsidian doesn't show graph view nodes\|How to fix when Obsidian doesn't show graph view nodes]]
+
+###### If Digital Garden doesn't work, Check this:
+- [[Solution\|Solution]]
