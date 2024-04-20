@@ -16,9 +16,8 @@
 - ✅ [[To Do/To Do's\|To Do's]]
 - ⌨️ [[Coding/index/Coding\|Coding]]
 - 🖌️[[Color Palettes/index/Color Palettes\|Color Palettes]]
-- 🌎 [[Useful Websites\|Useful Websites]]
-- 🧪 [[experiment\|Experiment]]
-- 🖥️ [[SFFPC\|SFFPC]]
+- 🌎 [[Useful Websites/Useful Websites\|Useful Websites]]
+- 🖥️ [[SFFPC/SFFPC\|SFFPC]]
 
  
 
