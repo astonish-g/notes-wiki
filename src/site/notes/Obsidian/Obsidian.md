@@ -17,5 +17,5 @@ Here you can find my personal notes about Obsidian.
 - [[Obsidian/Obsidian/How to fix when Obsidian doesn't show graph view nodes\|How to fix when Obsidian doesn't show graph view nodes]]
 
 ###### If Digital Garden doesn't work, Check this:
-- [[Solution\|Solution]]
-- [[Style CSS settings not applying on new installation\|Style CSS settings not applying on new installation]]
+- [[Obsidian/Digital Garden/Solution\|Solution]]
+- [[Obsidian/Digital Garden/Style CSS settings not applying on new installation\|Style CSS settings not applying on new installation]]
