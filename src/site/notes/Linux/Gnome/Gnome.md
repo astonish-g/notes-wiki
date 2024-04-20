@@ -4,4 +4,4 @@
 
 - [[Linux/Gnome/Useful Gnome Shell Extensions\|Useful Gnome Shell Extensions]]
 - [[Linux/Gnome/How to set super+right click mouse drag for window resizing\|How to set super+right click mouse drag for window resizing]]
-- [[How to mask power-profile-daemon for installing TLP\|How to mask power-profile-daemon for installing TLP]]
+- [[Linux/Linux Tips and Tricks/How to mask power-profile-daemon for installing TLP\|How to mask power-profile-daemon for installing TLP]]
