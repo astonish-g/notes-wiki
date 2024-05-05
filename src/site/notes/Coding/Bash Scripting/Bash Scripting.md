@@ -13,3 +13,4 @@ Here you can click the [Udemy link](https://www.udemy.com/course/bash-shell-scri
 	- [[Redirect\|Redirect]] command serves to **overwrite** or **append** the output of a command into a file. 
 	- [[Cat\|Cat]] command is used to view the contents of a file. 
 	- [[Pipe\|Pipe]] command let's you **use** te **output** of a command as **input** of an other command.
+	- [[Tail\|Tail]] command let's you view the **selected number** of  **last lines** in a file's content.
