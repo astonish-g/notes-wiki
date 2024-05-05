@@ -31,3 +31,10 @@
 
 ##### Project Notes
 - [[Blender/Lydia Shoes/Lydia Shoes Notes\|Lydia Shoes Notes]]
+
+##### SubD Modelling Notes
+- [[Clean Topology\|Clean Topology]]
+
+##### Useful plug-ins:
+- [[Free Blender Plug-ins\|Free Blender Plug-ins]]
+- [[Paid Blender Plug-ins\|Paid Blender Plug-ins]]
