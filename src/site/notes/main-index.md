@@ -18,7 +18,5 @@
 - 🖌️[[Color Palettes/index/Color Palettes\|Color Palettes]]
 - 🌎 [[Useful Websites/Useful Websites\|Useful Websites]]
 - 🖥️ [[SFFPC/SFFPC\|SFFPC]]
-
-check if it works.
  
 
