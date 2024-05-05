@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/free-blender-plug-ins/","noteIcon":""}
 ---
 
-- ##### Set Flow:
+- ##### Edge Flow:
 	This plug-in finds the best curvature position between two edge loops and set's the selected edge loop's position according to the other loops around it. So it kind of works like **Looptools relax** function, but some find this better.
 	
-	Click on the following link, to learn more about how to use the **Set Flow** plug-in: [[Set Flow\|Set Flow]]
+	Click on the following link, to learn more about how to use the **Set Flow** plug-in: [[Edge Flow\|Edge Flow]]
 	
-	[Download link to Flow plug-in](https://github.com/BenjaminSauder/EdgeFlow)
+	[Download link to Edge Flow plug-in](https://github.com/BenjaminSauder/EdgeFlow)
 
 <br>
 
