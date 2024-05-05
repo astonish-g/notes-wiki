@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/redirect/","noteIcon":""}
 ---
 
-This command let's you **redirect** the **output** of any **command** **to any file**. The command is achieved by using the `>` symbol between the command and the output file name. For example:
+##### Info:
+This command let's you **redirect** the **output** of any **command** **to any file**. The command is achieved by using the `>` symbol between the command and the output file name. 
+
+##### How to use?
+In the example below, we will be **writing** the **output** of an `echo` command to a file called `newtext.txt`:
 
 ```bash
 echo "hello world" > newtext.txt
