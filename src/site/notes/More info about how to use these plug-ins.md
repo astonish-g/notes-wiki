@@ -3,6 +3,6 @@
 ---
 
 In this note, you will find links to more info about using the advised plug-ins:
-- [[Set Flow\|Set Flow]]
+- [[Edge Flow\|Edge Flow]]
 - [[Looptools\|Looptools]]
 - [[Easy HDRI\|Easy HDRI]]
