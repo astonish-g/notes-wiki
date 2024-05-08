@@ -28,6 +28,7 @@
 - [[Blender/Blender-notes/How to change the units of a scene in Blender\|How to change the units of a scene in Blender]]
 - [[Blender/Blender-notes/How to quickly delete faces, edges and vertexes\|How to quickly delete faces, edges and vertexes]]
 - [[Blender/Blender-notes/How to seperate face, edge, vertexes...etc\|How to seperate face, edge, vertexes...etc]]
+- [[How to align vertexes on x,y,z axis to an other vertex or position\|How to align vertexes on x,y,z axis to an other vertex or position]]
 
 ##### Project Notes
 - [[Blender/Lydia Shoes/Lydia Shoes Notes\|Lydia Shoes Notes]]
