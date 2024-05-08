@@ -19,5 +19,6 @@
 - 🌎 [[Useful Websites/Useful Websites\|Useful Websites]]
 - 🖥️ [[SFFPC/SFFPC\|SFFPC]]
 
+[[deneme\|deneme]]
  
 
