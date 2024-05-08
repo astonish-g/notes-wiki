@@ -18,4 +18,4 @@ Actually, if you want to see how the subdivided edges will look, you can do it b
 - And then by **activating** the **wireframe** option.
 - In your **Subdivision** modifier options, you should **disable/uncheck** the **optimal display** option.
 
-Now you will be able to see the edges of your surfaces once the subdivision modifier will be applied. But you should ==note that== this solution ==only works in object mod==.
+**Now** you will be **able to see the edges of your surfaces** once the **subdivision** modifier will be **applied**. But you should **note** that this solution **only works in object mod**.
