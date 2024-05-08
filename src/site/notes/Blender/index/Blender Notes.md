@@ -29,6 +29,7 @@
 - [[Blender/Blender-notes/How to quickly delete faces, edges and vertexes\|How to quickly delete faces, edges and vertexes]]
 - [[Blender/Blender-notes/How to seperate face, edge, vertexes...etc\|How to seperate face, edge, vertexes...etc]]
 - [[How to align vertices on X,Y,Z axis to an other vertex or position\|How to align vertices on X,Y,Z axis to an other vertex or position]]
+- [[Subdivision modifier on cage option\|Subdivision modifier on cage option]]
 
 ##### Project Notes
 - [[Blender/Lydia Shoes/Lydia Shoes Notes\|Lydia Shoes Notes]]
