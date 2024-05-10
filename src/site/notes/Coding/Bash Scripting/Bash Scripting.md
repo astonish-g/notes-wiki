@@ -4,6 +4,7 @@
 
 - [[Coding/Bash Scripting/My scripts\|My scripts]]
 - [[Coding/Bash Scripting/Obsidian update script explained\|Obsidian update script explained]]
+- [[How to give a number as an argument for a command\|How to give a number as an argument for a command]]
 
 ##### Course 1 - Bash Shell Scripting: Crash Course for Beginners:
 Here you can click the [Udemy link](https://www.udemy.com/course/bash-shell-scripting-crash-course-for-beginners/learn/) for the course. 
