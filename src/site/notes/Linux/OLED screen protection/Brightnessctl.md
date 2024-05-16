@@ -12,11 +12,11 @@ You can **install** it with `yay brightnessctl`
 ##### How to use it?
 First of all, **open** your **terminal** and execute a command like this:
 ```bash
-brightnessctl set %20
+brightnessctl set 20%
 ```
 So the command **above sets** the **brightness** to **20%**.
 ```bash
-brightnessctl set %75
+brightnessctl set 75%
 ```
 And the command **above sets** the **brightness** to **75%**.
 
