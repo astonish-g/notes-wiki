@@ -14,3 +14,6 @@ It is a paid plug-in, but if i am not wrong, you can download and install it for
 	- **Magic Curve > Smooth**
 
 This will create a curve from the selected vertices, with the correct normals to place the rivet array on.
+
+##### Download link for free:
+You can download the plug-in from this link: https://jobweek.gumroad.com/l/curve-array-pro?layout=profile and set the price to 0 and "buy it".
