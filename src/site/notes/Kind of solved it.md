@@ -18,7 +18,7 @@ So kind of I am understanding how to do it and I made some progress on the rivet
 ##### Making the array:
 - Selected the **rivet** and added an **array modifier**.
 - On the array modifier, I set a **Factor X** to **1.500** to set a distance between the rivets (change it as you like) and **increased** the **number** of **count** to **44** to cover the full distance of the curve. Again, here, you can set a number that fits your case.
-- Finally, **add** a **curve modifier** and **choose** the created curve as **Curve Object**.
+- Finally, **add** a **curve modifier** and **choose** the created curve (create the curve with [[Curve Array - Magiccurve plug-in\|Curve Array - Magiccurve plug-in]] as **Curve Object**.
 
 >[!Warning] 
 >Unfortunately, the rivets are not really rotating in all the axis to follow the normals. so I may need to modify the curve with it, rotating each CV of the curve, to make the normals look the correct way, or else, I still have to find the correct way.
