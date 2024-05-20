@@ -16,4 +16,4 @@ I had some issues while trying to do the triangle part on the front strap where 
 - **Extrude** the face to give it some **thickness**.
 - **Bevel** the **edges** to give that **circular** triangle shape.
 
-This should help to create that form. But the ==topology is not quads and clean, so you may try to fix it. ==
+This should help to create that form. But the ==topology is not quads and clean, so you may try to fix it.==
