@@ -30,6 +30,7 @@
 - [[Blender/Blender-notes/How to seperate face, edge, vertexes...etc\|How to seperate face, edge, vertexes...etc]]
 - [[How to align vertices on X,Y,Z axis to an other vertex or position\|How to align vertices on X,Y,Z axis to an other vertex or position]]
 - [[Subdivision modifier on cage option\|Subdivision modifier on cage option]]
+- [[How to remove an edge loop and redistribute the remaining ones equally\|How to remove an edge loop and redistribute the remaining ones equally]]
 
 ##### Project Notes
 - [[Blender/Lydia Shoes/Lydia Shoes Notes\|Lydia Shoes Notes]]
