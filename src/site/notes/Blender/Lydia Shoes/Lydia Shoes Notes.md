@@ -9,5 +9,5 @@
 - [[How to make the triangle part on the front strap\|How to make the triangle part on the front strap]]
 ##### Personal Notes
 - [[Blender/Lydia Shoes/1.0 - Beginning\|1.0 - Beginning]]
-- [[2.0 - Continueing\|2.0 - Continueing]]
+- [[2.0 - Removing Fillets\|2.0 - Removing Fillets]]
 
