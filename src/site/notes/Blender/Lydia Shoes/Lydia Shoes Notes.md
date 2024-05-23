@@ -10,4 +10,5 @@
 ##### Personal Notes
 - [[Blender/Lydia Shoes/1.0 - Beginning\|1.0 - Beginning]]
 - [[2.0 - Removing Fillets\|2.0 - Removing Fillets]]
+- [[3.0 - Fixing the insole rotation\|3.0 - Fixing the insole rotation]]
 
