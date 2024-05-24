@@ -42,3 +42,7 @@
 - [[Free Blender Plug-ins\|Free Blender Plug-ins]]
 - [[Paid Blender Plug-ins\|Paid Blender Plug-ins]]
 - [[More info about how to use these plug-ins\|More info about how to use these plug-ins]]
+
+##### Shortcuts:
+- [[Common Shortcuts\|Common Shortcuts]]
+- [[Curve Shortcuts\|Curve Shortcuts]]
