@@ -12,4 +12,5 @@
 - [[2.0 - Removing Fillets\|2.0 - Removing Fillets]]
 - [[3.0 - Fixing the insole rotation\|3.0 - Fixing the insole rotation]]
 - [[4.0 - Making the straps of the shoe\|4.0 - Making the straps of the shoe]]
+- [[5.0 - Things to do\|5.0 - Things to do]]
 
