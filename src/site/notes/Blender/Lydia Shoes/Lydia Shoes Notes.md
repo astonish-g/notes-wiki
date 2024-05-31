@@ -7,6 +7,7 @@
 	- [[Kind of solved it\|Kind of solved it]]
 	- [[Curve Array - Magiccurve plug-in\|Curve Array - Magiccurve plug-in]]
 - [[How to make the triangle part on the front strap\|How to make the triangle part on the front strap]]
+- [[How to make the straps with even thickness\|How to make the straps with even thickness]]
 ##### Personal Notes
 - [[Blender/Lydia Shoes/1.0 - Beginning\|1.0 - Beginning]]
 - [[2.0 - Removing Fillets\|2.0 - Removing Fillets]]
