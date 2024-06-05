@@ -14,4 +14,5 @@
 - [[3.0 - Fixing the insole rotation\|3.0 - Fixing the insole rotation]]
 - [[4.0 - Making the straps of the shoe\|4.0 - Making the straps of the shoe]]
 - [[5.0 - Things to do\|5.0 - Things to do]]
+- [[6.0 - Trying to optimize the model\|6.0 - Trying to optimize the model]]
 
