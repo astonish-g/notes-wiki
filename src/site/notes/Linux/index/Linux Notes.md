@@ -16,4 +16,6 @@ Here you can find my notes about [[Linux/Linux\|Linux]] operating system.\
 - ⌨️ [[Linux/Useful Linux Commands/Useful Linux Commands\|Useful Linux Commands]]
 - 🌐 [[Linux/Useful Linux Websites\|Useful Linux Websites]]
 - ☢️ [[Linux/Troubleshooting/Troubleshooting\|Troubleshooting]]
-- [[Linux Terminal Commands\|Linux Terminal Commands]]
+- ⏹️ [[Useful CLI applications\|Useful CLI applications]]
+- 🟢 [[Dot-files\|Dot-files]]
+- 🤯 [[Linux Terminal Commands\|Linux Terminal Commands]]
