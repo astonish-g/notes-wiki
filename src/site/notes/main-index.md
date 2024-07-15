@@ -11,7 +11,7 @@
 - 📝 [[Markdown/Markdown Cheatsheet\|Markdown Cheatsheet]]
 - 🔄 [[GitHub/Github Notes\|Github Notes]]
 - ⌨️ [[VSCode Notes/VSCode Notes\|VSCode Notes]]
-- ⌨️ [[NeoVim Notes/NeoVim Notes\|NeoVim Notes]]
+- ⌨️ [[NeoVim Notes/NeoVim\|NeoVim]]
 - 📒 [[Obsidian/Obsidian\|Obsidian/Obsidian]]
 - ✅ [[To Do/To Do's\|To Do's]]
 - ⌨️ [[Coding/index/Coding\|Coding]]
