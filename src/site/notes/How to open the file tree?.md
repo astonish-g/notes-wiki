@@ -36,7 +36,7 @@ While you are in the file tree with the cursor, you can open folders and files b
 - Press **Tab** to open the file in a **new buffer** while keeping the **cursor** on the **file-tree**.
 - Press **Ctrl** + **t** to open the file in a **new tab** that can be managed separately from the other buffers present.
 - Press **Ctrl** + **v** to open the file by splitting the buffer in vertical.
-- Press **Ctrl** + **h** top opoen the file by splitting the buffer in horizontal.
+- Press **Ctrl** + **h** top opoen the file by splitting the buffer in horizontal. ==(it doesnt work)== 
 
 ##### File Management:
 Continue typing from this link: https://docs.rockylinux.org/books/nvchad/nvchad_ui/nvimtree/
