@@ -17,3 +17,4 @@
 - [[Navigating your cursor in INSERT mode in NVChad\|Navigating your cursor in INSERT mode in NVChad]]
 - [[How to select a text\|How to select a text]]
 - [[How to search inside your file\|How to search inside your file]]
+- [[How to open the file tree?\|How to open the file tree?]]
