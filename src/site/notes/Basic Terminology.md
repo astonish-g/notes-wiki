@@ -14,3 +14,10 @@ Here you will find some descriptions for the basic terminology of Python and Cod
 	myname = 'Garo"
 	```
 	This is a statement. It tells that my name equals to Garo. Here we are assigning the value of *Garo*, and it is a *string value*, and we are assigning that to the *variable* **myname**. So this is a statement.
+
+- ###### Identifiers:
+	Identifiers are names that identify **variables, functions, modules, classes** and other objects in **Python**.
+	
+	Python **identifiers** needs to **begin** with a **letter** or **underscore**. 
+	
+	Python **identifiers** are **case-sensitive**. For example, the `counter` and `Counter` are **different** identifiers.
