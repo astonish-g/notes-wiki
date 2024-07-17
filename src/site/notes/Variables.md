@@ -3,7 +3,15 @@
 ---
 
 ##### Info:
-In **Python** you can add **variables** in this way. For example let's create a **variable** called ==name==.
+In **Python** you can add **variables** in this way: 
+
+```Python
+variable_name = value
+```
+
+The `=` is the **assignment operator** . In this syntax, you assign a **value** to the `variable_name`. The value can be anything like a **number** , a **string** , etc.., that you assign to the variable. 
+
+For example let's create a **variable** called ==name==.
 
 ```Python
 name = ("Garo")
@@ -40,5 +48,68 @@ Because in the **Python** coding language, when you use **multiple words**, it i
 >
 >Also note that, you can not use some special syntax words such as **if, for** in your variable names as they are reserved for syntaxes.
 
+
+> [!note]
+> Remember that a variable can hold various values at different times. So, you can change the value of the variable inside a program/script
+
+##### Types of variables:
+- ###### Global variable:
+	The variables that are outside of the functions, are global variables and it will keep it's value throughout the code, unless you change it.
+
+- ###### Local variables:
+	Those are the variables that you create inside a function and they keep their value only inside this function.
+
+- ###### An example:
+	```Python
+	x = 'awesone'
+	
+	def myfunc():
+		x = 'fantastic'
+		print('Python is ' + x)
+	
+	myfunc()
+	
+	print('Python is ' + x)
+	```
+
+	So in the example above, the value `awesome` belongs to a **global variable** whereas the value `fantastic` belongs to a **local variable**.
+	
+	The output will be like below:
+	
+	```
+	Python is fantastic
+	Python is awesome
+	```
+
+<br>
+
+> [!Creating a global variable inside a function]
+> If you want, you can create a **global variable inside a function**. To do so, you should use the `global` keyword.
+> 
+> ```Python
+> def myfunc():
+> 	global x
+> 	x = "fantastic"
+> 	
+> myfunc()
+> 
+> print("Python is " + x)
+> ```
+> You can also use the `global` keyword to change a **variable** inside a function. 
+> 
+> ```Python
+> x = 'awesome'
+> 
+> def myfunc():
+> 	global x
+> 	x = 'fantastic'
+> 
+> myfunc()
+> 
+> print("Python is " + x)
+> ```
+
+
+ 
 
 
