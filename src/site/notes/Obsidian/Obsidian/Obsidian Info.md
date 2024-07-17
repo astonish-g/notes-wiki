@@ -34,6 +34,10 @@
 - **CTRL+W =** Close the *current tab*.
 - **CTRL+ALT+W =** Close *all other tabs*.
 - **CTRL+SHIFT+W =** Close *window*.
+
+##### How to go back or forward with hotkeys?
+- **CTRL+ALT+Left Arrow** = Go back
+- **CTRL+ALT+Right Arrow** = Go forward
 ##### How to open a note link in a new window?
 1. While viewing the note, **right click** on the link and select **open in new window**.
 ##### How to move the current note to a new window?
