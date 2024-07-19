@@ -65,3 +65,32 @@ When a **value** evaluates to **True**, it's ==truthy==. And if a **value** eval
 > - An empty dictionary **{ }**
 > 
 > All the other values that are NOT falsy are **truthy** values.
+
+##### Most values are True
+- Almost any **value** is evaluated to `True` if it has some sort of **content.** 
+- Any **string** is `True`, **except** ==empty== strings.
+- Any **number** is `True`, **except** `0`.
+- Any **list, tuple, set** and **dictionary** are `True`, **except** ==empty== ones.
+
+###### Examples:
+The following will return `True` :
+
+```Python
+bool("abc")
+bool(123)
+bool(["apple", "cherry", "banana"])
+```
+
+##### Functions can return a value:
+You can create functions that returns a Boolean value:
+
+```Python
+def myFunction() :
+	return True
+
+print(myFunction())
+```
+
+So the **function** example **above** will return `True`.
+
+
