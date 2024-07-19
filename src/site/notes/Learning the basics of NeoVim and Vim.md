@@ -18,3 +18,4 @@
 - [[How to select a text\|How to select a text]]
 - [[How to search inside your file\|How to search inside your file]]
 - [[How to open the file tree?\|How to open the file tree?]]
+- [[How to insert at the end of the line\|How to insert at the end of the line]]
