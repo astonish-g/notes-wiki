@@ -10,5 +10,5 @@ You can do this by using the `strip()` method.  Here's an example:
 
 ```Python
 greeting = " Hello, World! "
-print(a.strip()) # returns "Hello, World!"
+print(greeting.strip()) # returns "Hello, World!"
 ```
