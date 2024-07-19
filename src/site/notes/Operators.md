@@ -5,6 +5,11 @@
 ##### Info:
 Operators are symbols used to perform operatios on values and the variables that hold those valuses. 
 
+> [!Tip] Check this web page for more info
+> Check the link below for more detailed list of operators and information about operators.
+> 
+> [Operators-info](https://www.w3schools.com/python/python_operators.asp)
+
 ###### Basic operators:
  - ==Assignment Operator==
 	 - For example when writing `name = 'Garo'` , in this case `name` is an **assignment operator**. If you type `color = 'green'` , then the `color` will be an assignment operator since we are assigning `green` as a value to it.
