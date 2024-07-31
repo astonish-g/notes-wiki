@@ -38,3 +38,4 @@ On python, you comment stuff like in bash, with `#` key.
 ##### Lists:
 - [[General Info\|General Info]]
 - [[Python Collections - Arrays\|Python Collections - Arrays]]
+- [[How to copy a list\|How to copy a list]]
