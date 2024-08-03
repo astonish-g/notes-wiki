@@ -29,3 +29,4 @@
 - [[Linux/Linux Tips and Tricks/How to use content-aware fill for free on Linux - PIXLR\|How to use content-aware fill for free on Linux - PIXLR]]
 - [[Linux/Linux Tips and Tricks/How to mask power-profile-daemon for installing TLP\|How to mask power-profile-daemon for installing TLP]]
 - [[Linux/Linux Tips and Tricks/How to set a sleep timer on Linux\|How to set a sleep timer on Linux]]
+- [[How to use Zathura PDF reader\|How to use Zathura PDF reader]]
