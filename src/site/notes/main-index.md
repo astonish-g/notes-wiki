@@ -18,6 +18,6 @@
 - 🖌️[[Color Palettes/index/Color Palettes\|Color Palettes]]
 - 🌎 [[Useful Websites/Useful Websites\|Useful Websites]]
 - 🖥️ [[SFFPC/SFFPC\|SFFPC]]
-
+- [[Narodla filmler\|Narodla filmler]]
  
 
