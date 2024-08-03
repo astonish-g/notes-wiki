@@ -39,3 +39,7 @@ On python, you comment stuff like in bash, with `#` key.
 - [[General Info\|General Info]]
 - [[Python Collections - Arrays\|Python Collections - Arrays]]
 - [[How to copy a list\|How to copy a list]]
+
+##### Tuple
+- [[General info Tuple\|General info Tuple]]
+- [[What happens when you try to change?\|What happens when you try to change?]]
