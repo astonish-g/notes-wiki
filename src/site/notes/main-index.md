@@ -19,5 +19,6 @@
 - 🌎 [[Useful Websites/Useful Websites\|Useful Websites]]
 - 🖥️ [[SFFPC/SFFPC\|SFFPC]]
 - [[Narodla filmler\|Narodla filmler]]
+- [[24 inch monitor modifications\|24 inch monitor modifications]]
  
 
