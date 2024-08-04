@@ -11,7 +11,7 @@ Apparently we can combine strings by **using** `f-strings`. Or you can use `form
 ##### How to use the F-Strings:
 F-Strings was introduced in **Python 3.6** and is now the **preferred way** of **formatting** strings.
 
-To specify a string as an **f-string**, simply put an `f` in **front** of the **string literal**, and **add** **curly brackets** `{}` as **placeholders** for variables and other operations. 
+To specify a string as an **f-string**, simply put an `f` in **front** of the **string literal**, and **add** **curly brackets** `{}` as **placeholders** for variables and other operations.
 
 ##### An example to see this:
 ```Python
