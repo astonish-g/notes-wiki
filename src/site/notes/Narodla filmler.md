@@ -3,9 +3,11 @@
 ---
 
 ##### Netflix:
-- Soygun Sanati
-- Hirsizlar Ordusu
-- Iyi bir kizin cinayet rehberi *(belki guzel olabilir)*
-- Sosyete Polisi
-- Norseman
-- The Irishman
+- [x] Soygun Sanati
+- [x] Hirsizlar Ordusu
+- [ ] Iyi bir kizin cinayet rehberi *(belki guzel olabilir)*
+- [ ] Sosyete Polisi 
+- [ ] Norseman
+- [ ] The Irishman
+- [ ] Kayip Sehir (Sandra Bullock)
+- [ ] Oktoberfest
