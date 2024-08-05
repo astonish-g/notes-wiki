@@ -20,3 +20,4 @@
 - [[How to open the file tree?\|How to open the file tree?]]
 - [[How to insert at the end of the line\|How to insert at the end of the line]]
 - [[How to switch between terminal and editor\|How to switch between terminal and editor]]
+- [[How to copy paste\|How to copy paste]]
