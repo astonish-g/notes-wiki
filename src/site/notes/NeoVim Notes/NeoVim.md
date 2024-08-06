@@ -4,3 +4,4 @@
 
 - [[Neovim General Notes\|Neovim General Notes]]
 - [[Learning the basics of NeoVim and Vim\|Learning the basics of NeoVim and Vim]]
+- [[LazyNvim Notes\|LazyNvim Notes]]
