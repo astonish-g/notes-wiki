@@ -32,3 +32,9 @@
 
 ##### Telescope search:
 - **\<leader> space :** Find Files (root directory)
+- **\<leader> , :** Switch buffer
+- **\<leader> / :** Grep (Root Dir)
+- **\<leader> fr :** Recent files
+- **\<leader> sc :** Command history
+- **\<leader> sh :** Search for words
+- **\<leader> uC :** Theme chooser
