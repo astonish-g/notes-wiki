@@ -22,3 +22,4 @@
 - [[24 inch monitor modifications\|24 inch monitor modifications]]
  
 
+[[deneme 2\|deneme 2]]
