@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/how-to-use-zathura-pdf-reader/","noteIcon":""}
 ---
 
-##### Info:
+nap##### Info:
 When you install it, remember to install the pdf backend as well. I installed the **pdf-poppler** version. Then you open a document with Zathura, with the **right click menu** inside your **file-manager**. I still have to find a different way to do it.
 
 ##### Keyboard controls:
