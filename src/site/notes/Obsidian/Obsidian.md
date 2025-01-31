@@ -17,7 +17,8 @@ Here you can find my personal notes about Obsidian.
 - [[Obsidian/Obsidian/How to fix when Obsidian doesn't show graph view nodes\|How to fix when Obsidian doesn't show graph view nodes]]
 - [[How to add more empty lines in your notes with html tags\|How to add more empty lines in your notes with html tags]]
 - [[How to navigate back and forward with your keyboard\|How to navigate back and forward with your keyboard]]
+- [[How to change the color of the themes with variables\|How to change the color of the themes with variables]]
 
-###### If Digital Garden doesn't work, Check this:
+##### If Digital Garden doesn't work, Check this:
 - [[Obsidian/Digital Garden/Solution\|Solution]]
 - [[Obsidian/Digital Garden/Style CSS settings not applying on new installation\|Style CSS settings not applying on new installation]]
