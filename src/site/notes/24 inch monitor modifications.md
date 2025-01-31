@@ -18,3 +18,6 @@
 ##### Firestorm Viewer:
 - Changed the **Chat Window Font Size** from **Medium** to **Large**.
 	- To change it, open **Preferences** and search for **Chat Window Font Size** and then from the setting change it to the desired level. This setting let's you change the chat font size without changing the UI font size.
+
+##### Blender:
+- Brought the interface scaling back from **1.10** to **1.0**.
